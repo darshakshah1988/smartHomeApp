@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<color>
+ <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+          <!-- default configuration start -->
+           <item name="app_bg_color">@color/app_bg_color</item>
+          <item name="list_line_color">@color/list_line_color</item>
+          <item name="status_bg_color">@color/status_bg_color</item>
+          <!-- default configuration end -->
+      </style>
+      </color>
+      
